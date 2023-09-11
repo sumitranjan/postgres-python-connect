@@ -21,9 +21,6 @@ Before running the script, make sure you have the following prerequisites instal
 
 5. The script will perform various database operations, and you will see the results in the console.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
