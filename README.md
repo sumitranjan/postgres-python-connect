@@ -17,7 +17,7 @@ Before running the script, make sure you have the following prerequisites instal
 
 3. Modify the database connection settings in the script (`host`, `database`, `username`, `password`, `port`) to match your PostgreSQL database configuration.
 
-4. Run the script:
+4. Run the script: `python main.py`
 
 5. The script will perform various database operations, and you will see the results in the console.
 
